@@ -264,16 +264,13 @@
             <persName>Agolanti</persName>
             <socecStatus>noble</socecStatus>
           </person>
-          <person xml:id="berto" age="adult" role="outlaw">
+          <person xml:id="berto" sameAs="berto-dis1 berto-dis2" age="adult" role="outlaw">
             <state>
               <desc>unmarried</desc>
             </state>
             <residence>
               <settlement>Imola</settlement>
             </residence>
-            <disguise disguisename="frateAlberto" sex="1" role="monk" origin="Imola"
-              estate="religious"/>
-            <disguise disguisename="Gabriello" sex="1" role="angel" estate="poor"/>
             <persName>frate Alberto</persName>
             <persName> (Berto della Massa)</persName>
             <faith>christian</faith>
@@ -1319,7 +1316,7 @@
             <persName>Efigenia</persName>
             <socecStatus>noble</socecStatus>
           </person>
-          <person xml:id="eganogalluzzi" sex="1">
+          <person xml:id="eganogalluzzi" sameAs="beatriceGalluzzi" sex="1">
             <state>
               <desc>married</desc>
             </state>
@@ -1327,7 +1324,6 @@
               <settlement>Bologna</settlement>
             </residence>
             <affiliation role="husband">beatricegalluzzi</affiliation>
-            <disguise disguisename="BeatriceGalluzzi" status="married" sex="2" origin="Bologna"/>
             <persName>Egano Galluzzi</persName>
             <faith>christian</faith>
             <socecStatus>noble</socecStatus>
@@ -1905,7 +1901,7 @@
             <affiliation role="husband">restituta</affiliation>
             <persName>Gianni da Procida</persName>
           </person>
-          <person xml:id="violante" sex="2" age="youth-adult">
+          <person xml:id="violante" sameAs="giannetta" sex="2" age="youth-adult">
             <state>
               <desc>unmarried-to-married</desc>
             </state>
@@ -1915,8 +1911,6 @@
             <affiliation role="daughter">gualtierianversa</affiliation>
             <affiliation role="sister">luigi</affiliation>
             <affiliation role="wife">giachetto</affiliation>
-            <disguise disguisename="Giannetta" sex="1" role="servant" estate="poor"
-              origin="Piccardia"/>
             <affiliation role="ward">dama-0208 padregiachetto-0208</affiliation>
             <persName>Violante / Giannetta</persName>
             <socecStatus>noble</socecStatus>
@@ -2092,7 +2086,7 @@
             <persName>Girolamo Sighieri</persName>
             <socecStatus>mercantile</socecStatus>
           </person>
-          <person xml:id="giuffredi" sex="1" age="child-youth">
+          <person xml:id="giuffredi" sameAs="giannottoProcida" sex="1" age="child-youth">
             <state>
               <desc>unmarried-to-married</desc>
               <desc>temporarily-imprisoned</desc>
@@ -2100,8 +2094,6 @@
             <residence>
               <settlement>Napoli</settlement>
             </residence>
-            <disguise disguisename="GiannottoProcida" sex="1" age="child-youth" role="servant"
-              origin="Procida" estate="poor"/>
             <affiliation role="son">beritolacaracciola arrighettocapece</affiliation>
             <affiliation role="brother">loscacciato</affiliation>
             <affiliation role="husband">spina</affiliation>
@@ -2184,7 +2176,7 @@
             <faith>christian</faith>
             <socecStatus>poor</socecStatus>
           </person>
-          <person xml:id="gualtierianversa" sex="1" age="adult-elder" role="count">
+          <person xml:id="gualtierianversa" sameAs="gualtierianversa-dis" sex="1" age="adult-elder" role="count">
             <state>
               <desc>married</desc>
               <desc>alive-deceased</desc>
@@ -2192,7 +2184,6 @@
             <residence>
               <settlement>Anversa</settlement>
             </residence>
-            <disguise sex="1" role="servant" origin="Piccardia" estate="poor"/>
             <affiliation role="father">luigi violante</affiliation>
             <persName>Gualtieri conte d'Anguersa</persName>
             <socecStatus>noble</socecStatus>
@@ -2637,8 +2628,6 @@
             </residence>
             <affiliation role="lover">beatricegalluzzi</affiliation>
             <affiliation role="servant">eganogalluzzi</affiliation>
-            <disguise disguisename="Anichino" status="unmarried" sex="1" role="servant"
-              estate="poor"/>
             <persName>Lodovico / Anichino</persName>
             <socecStatus>noble</socecStatus>
           </person>
@@ -2808,11 +2797,10 @@
             <persName>Marino Bolgaro</persName>
             <socecStatus>noble</socecStatus>
           </person>
-          <person xml:id="martellino" sex="1" age="adult" role="jester">
+          <person xml:id="martellino" sameAs="martellino-dis" sex="1" age="adult" role="jester">
             <residence>
               <settlement>Firenze</settlement>
             </residence>
-            <disguise sex="1" condition="temporarily-ill"/>
             <persName>Martellino</persName>
             <faith>christian</faith>
             <socecStatus>unknown</socecStatus>
@@ -3022,11 +3010,10 @@
             <persName>Nastagio degli Onesti</persName>
             <socecStatus>noble</socecStatus>
           </person>
-          <person xml:id="natan" sex="1" age="elder" role="lord">
+          <person xml:id="natan" sameAs="servidorNatan" sex="1" age="elder" role="lord">
             <residence>
               <settlement>Cattaio</settlement>
             </residence>
-            <disguise disguisename="servidorNatan" sex="1" age="elder" role="servant" estate="poor"/>
             <persName>Natan / servidor di Natan</persName>
             <socecStatus>noble</socecStatus>
           </person>
@@ -3339,11 +3326,10 @@
             <faith>christian</faith>
             <socecStatus>poor</socecStatus>
           </person>
-          <person xml:id="luigi" sex="1" age="youth-adult">
+          <person xml:id="luigi" sameAs="perotto" sex="1" age="youth-adult">
             <state>
               <desc>unmarried-to-married</desc>
             </state>
-            <disguise disguisename="Perotto" sex="1" origin="Piccardia" estate="poor"/>
             <affiliation role="son">gualtierianversa</affiliation>
             <affiliation role="brother">violante</affiliation>
             <persName>Luigi / Perotto (II.8)</persName>
@@ -3702,12 +3688,10 @@
             <faith>christian</faith>
           </person>
           <!--********S*******-->
-          <person xml:id="saladino" sex="1" age="adult" role="sultan">
+          <person xml:id="saladino" sameAs="mercatante-1009" sex="1" age="adult" role="sultan">
             <residence>
               <settlement>AlessandriaEg</settlement>
             </residence>
-            <disguise disguisename="mercatante-1009" sex="1" age="adult" role="merchant"
-              origin="Cipro"/>
             <persName>Saladino / Saladin (I.3 X.9) (Yusuf</persName>
             <persName> ibn-Ayyub)</persName>
             <faith>muslim</faith>
@@ -3929,14 +3913,13 @@
             <persName>Tedaldo Agolanti (II.3)</persName>
             <socecStatus>noble</socecStatus>
           </person>
-          <person xml:id="tedaldoelisei" sex="1" age="youth">
+          <person xml:id="tedaldoelisei" sameAs="filippoSanlodecchio" sex="1" age="youth">
             <state>
               <desc>unmarried</desc>
             </state>
             <residence>
               <settlement>Firenze</settlement>
             </residence>
-            <disguise disguisename="FilippoSanlodecchio" sex="1" role="merchant"/>
             <affiliation role="lover">ermellina</affiliation>
             <persName>Tedaldo degli Elisei (III.7)</persName>
             <socecStatus>noble</socecStatus>
@@ -4034,7 +4017,7 @@
             <faith>christian</faith>
             <socecStatus>noble</socecStatus>
           </person>
-          <person xml:id="torello" sex="1" age="adult" role="knight">
+          <person xml:id="torello" sameAs="torello-dis" sex="1" age="adult" role="knight">
             <state>
               <desc>married</desc>
               <desc>temporarily-imprisoned</desc>
@@ -4045,7 +4028,6 @@
             <affiliation role="husband">adalieta</affiliation>
             <affiliation role="friend">saladino</affiliation>
             <affiliation role="nephew">abatesp-1009</affiliation>
-            <disguise sex="1" age="adult" role="ambassador" origin="AlessandriaEg"/>
             <persName>Torello di Stra da Pavia (X.9)</persName>
             <faith>christian</faith>
             <faith>muslim</faith>
@@ -4177,14 +4159,13 @@
             <persName>Zeppa di Mino (VIII.8)</persName>
             <socecStatus>noble</socecStatus>
           </person>
-          <person xml:id="ginevra" sex="2" role="housewife">
+          <person xml:id="ginevra" sameAs="sicurano" sex="2" role="housewife">
             <state>
               <desc>married</desc>
             </state>
             <residence>
               <settlement>Genova</settlement>
             </residence>
-            <disguise disguisename="Sicurano" sex="1" role="servant" estate="poor"/>
             <affiliation role="wife">bernabo</affiliation>
             <affiliation role="servant">encararh</affiliation>
             <persName>madonna Zinevra Lomellini / Sicurano (II.9)</persName>
@@ -4213,15 +4194,13 @@
             <faith>christian</faith>
             <socecStatus>religious</socecStatus>
           </person>
-          <person xml:id="donna-0203" sex="2" role="princess">
+          <person xml:id="donna-0203" sameAs="abate-0203" sex="2" role="princess">
             <state>
               <desc>unmarried-to-married</desc>
             </state>
             <residence>
               <settlement>England</settlement>
             </residence>
-            <disguise disguisename="abate-0203" sex="1" age="adult" role="abbot" origin="England"
-              estate="religious"/>
             <affiliation role="wife">alessandro</affiliation>
             <persName>donna / abate (II.3)</persName>
             <faith>christian</faith>
@@ -4374,12 +4353,10 @@
             <persName>compagni (X.6)</persName>
             <socecStatus>noble</socecStatus>
           </person>
-          <person xml:id="compagni-1009" sex="1" role="unspecified">
+          <person xml:id="compagni-1009" sameAs="mercatanti-1009" sex="1" role="unspecified">
             <residence>
               <settlement>AlessandriaEg</settlement>
             </residence>
-            <disguise disguisename="mercatanti-1009" sex="1" age="adult" role="merchant"
-              origin="Cipro"/>
             <affiliation role="friend">torello</affiliation>
             <persName>compagni (X.9)</persName>
             <faith>muslim</faith>
@@ -4742,12 +4719,10 @@
             <persName>fante (VII.6)</persName>
             <socecStatus>poor</socecStatus>
           </person>
-          <person xml:id="fante-0708" sex="2" role="servant">
+          <person xml:id="fante-0708" sameAs="sismonda-dis" sex="2" role="servant">
             <residence>
               <settlement>Firenze</settlement>
             </residence>
-            <disguise disguisename="Sismonda" status="married" sex="2" role="housewife"
-              origin="Firenze"/>
             <affiliation role="servant">sismonda</affiliation>
             <persName>fante (VII.8)</persName>
             <socecStatus>poor</socecStatus>
@@ -4826,7 +4801,7 @@
           </person>
           <!--chosen to encode as nameless because the child is
     never directly referred to as Gentile-->
-          <person xml:id="figliuola-1010" sex="2" age="child">
+          <person xml:id="figliuola-1010" sameAs="sposaGualtieri" sex="2" age="child">
             <state>
               <desc>unmarried-to-married</desc>
             </state>
@@ -4836,7 +4811,6 @@
             <affiliation role="daughter">gualtierisanluzzo griselda</affiliation>
             <affiliation role="relative">contipanago</affiliation>
             <affiliation role="granddaughter">giannucole</affiliation>
-            <disguise disguisename="sposaGualtieri" status="unmarried" sex="2" origin="Bologna"/>
             <persName>figliuola (X.10)</persName>
             <faith>christian</faith>
             <socecStatus>noble</socecStatus>
@@ -4948,7 +4922,7 @@
             <persName>fratelli (VIII.4)</persName>
             <socecStatus>mercantile</socecStatus>
           </person>
-          <person xml:id="geloso-0705" sex="1" role="merchant">
+          <person xml:id="geloso-0705" sameAs="prete-0705" sex="1" role="merchant">
             <state>
               <desc>married</desc>
             </state>
@@ -4956,7 +4930,6 @@
               <settlement>Rimini</settlement>
             </residence>
             <affiliation role="husband">donna-0705</affiliation>
-            <disguise disguisename="prete-0705" sex="1" role="preacher" estate="religious"/>
             <persName>il geloso</persName>
             <persName> (VII.5)</persName>
             <faith>christian</faith>
@@ -5672,6 +5645,114 @@
             <persName>vicini (VII.4)</persName>
           </person>
         </listPerson>
+        <listPerson type="disguise">
+          <person xml:id="berto-dis1" sameAs="berto berto-dis2" sex="1" role="monk">
+            <persName>Frate Alberto</persName>
+            <residence>
+              <settlement>Imola</settlement>
+            </residence>
+          </person>
+          <person xml:id="berto-dis2" sameAs="berto berto-dis2" sex="1" role="angel">
+            <persName>Gabriello</persName>
+            <socecStatus>poor</socecStatus>
+          </person>
+          <person xml:id="beatriceGalluzzi" sameAs="eganogalluzzi" sex="2">
+            <state>
+              <desc>married</desc>
+            </state>
+            <residence>
+              <settlement>Bologna</settlement>
+            </residence>
+          </person>
+          <person xml:id="giannetta" sameAs="violante" sex="1" role="servant">
+            <persName>Giannetta</persName>
+            <socecStatus>poor</socecStatus>
+            <residence>
+              <settlement>Piccardia</settlement>
+            </residence>
+          </person>
+          <person xml:id="giannottoProcida" sameAs="giuffredi" sex="1" age="child-youth" role="servant">
+            <persName>Giannotto Procida</persName>
+            <residence>
+              <settlement>Procida</settlement>
+            </residence>
+            <socecStatus>poor</socecStatus>
+          </person>
+          <person xml:id="gualtierianversa-dis" sameAs="gualtierianversa" sex="1" role="sevant">
+            <residence>
+              <settlement>Piccardia</settlement>
+            </residence>
+            <socecStatus>poor</socecStatus>
+          </person>
+          <person xml:id="anichino" sameAs="lodovico" sex="1" role="servant">
+            <persName>Anichino</persName>
+            <socecStatus>poor</socecStatus>
+            <state>
+              <desc>unmarried</desc>
+            </state>
+          </person>
+          <person xml:id="martellino-dis" sameAs="martellino" sex="1">
+            <persName>Martellino</persName>
+            <state>
+              <desc>temporarily-ill</desc>
+            </state>
+          </person>
+          <person xml:id="servidorNata" sameAs="natan" sex="1" age="elder" role="servant">
+            <socecStatus>poor</socecStatus>
+          </person>
+          <person xml:id="perotto" sameAs="luigi" sex="1">
+            <persName>Perotto</persName>
+            <socecStatus>poor</socecStatus>
+            <residence>
+              <settlement>Piccardia</settlement>
+            </residence>
+          </person>
+          <person xml:id="mercatante-1009" sameAs="saladino" sex="1" age="adult" role="merchant">
+            <residence>
+              <settlement>Cipro</settlement>
+            </residence>
+          </person>
+          <person xml:id="filippoSanlodecchio" sameAs="tedaldoelisei" sex="1" role="merchant">
+            <persName>Filippo Sanlodecchio</persName>
+          </person>
+          <person xml:id="torello-dis" sameAs="torello" sex="1" age="adult" role="ambassador"></person>
+          <person xml:id="sicurano" sameAs="ginerva" sex="1" role="servant">
+            <persName>Sicurano</persName>
+            <socecStatus>poor</socecStatus>
+          </person>
+          <person xml:id="abate-0203" sameAs="donna-0203" sex="1" age="adult" role="abbot">
+            <socecStatus>religious</socecStatus>
+            <residence>
+              <settlement>England</settlement>
+            </residence>
+          </person>
+          <person xml:id="mercatanti-1009" sameAs="compagni-1009" sex="1" age="adult" role="merchant">
+            <residence>
+              <settlement>Cipro</settlement>
+            </residence>
+          </person>
+          <person xml:id="sismonda-dis" sameAs="fante-0708" sex="2" role="housewife">
+            <persName>Sismonda</persName>
+            <residence>
+              <settlement>Firenze</settlement>
+            </residence>
+            <state>
+              <desc>married</desc>
+            </state>
+          </person>
+          <person xml:id="sposaGualtieri" sameAs="figliuola-1010" sex="2">
+            <persName>sposa Gualtieri</persName>
+            <residence>
+              <settlement>Bologna</settlement>
+            </residence>
+            <state>
+              <desc>unmarried</desc>
+            </state>
+          </person>
+          <person xml:id="prete-0705" sameAs="geloso-0705" sex="1" role="preacher">
+            <socecStatus>religious</socecStatus>
+          </person>
+        </listPerson>
       </particDesc>
       <!--******************-->
       <!--***************************************************************************************************-->
@@ -5979,13 +6060,13 @@
             </location>
           </place>
           <place xml:id="campi" type="hamlet">
-            <rel which="prato" type="closeto"/>
             <placeName><orig>CampiBisenzio</orig></placeName>
             <placeName>Campi</placeName>
             <location>
               <country>Italy</country>
               <region>Tuscany</region>
             </location>
+            <note corresp="prato" type="closeto"/>
           </place>
           <place xml:id="camporeggi" type="contrada">
             <placeName><orig>Camporegio</orig></placeName>
@@ -6051,12 +6132,12 @@
           </place>
           <place xml:id="castellammarestabia" type="city">
             <placeName><orig>Castellamare di Stabia</orig></placeName>
-            <rel which="napoli" type="closeto"/>
             <placeName>Castello da mare di Stabia</placeName>
             <location>
               <country>Italy</country>
               <region>Campania</region>
             </location>
+            <note corresp="napoli" type="closeto"/>
           </place>
           <place xml:id="castellorossiglione" type="castle">
             <placeName>Castello dei Rossiglione</placeName>
@@ -6120,13 +6201,13 @@
           </place>
           <!--in Peloponnesus (Corinth) -->
           <place xml:id="chiassi" type="area">
-            <rel which="ravenna" type="closeto"/>
             <placeName>Chiassi</placeName>
             <location>
               <country>Italy</country>
               <region>Emilia-Romanga</region>
               <settlement>Ravenna</settlement>
             </location>
+            <note corresp="ravenna" type="closeto"/>
           </place>
           <place xml:id="chiesarossiglione-0409" type="church">
             <placeName>Chiesa del castello dei Rossiglione</placeName>
@@ -7027,12 +7108,12 @@
             </location>
           </place>
           <place xml:id="santafiore" type="castle">
-            <rel which="siena" type="closeto"/>
             <placeName>Santafiore</placeName>
             <location>
               <country>Italy</country>
               <region>Tuscany</region>
             </location>
+            <note corresp="siena" type="closeto"/>
           </place>
           <!--vika: Santafiore is a castle in Maremma senese, an
     area of Tuscany-->
@@ -7348,12 +7429,12 @@
             </location>
           </place>
           <place xml:id="chiesa-1004" type="church">
-            <rel which="bologna" type="closeto"/>
             <placeName>chiesa (X.4)</placeName>
             <location>
               <country>Italy</country>
               <region>Emilia-Romagna</region>
             </location>
+            <note corresp="bologna" type="closeto"/>
           </place>
           <place xml:id="fiume-0202" type="river">
             <placeName>fiume (II.2)</placeName>
@@ -7385,30 +7466,30 @@
             </location>
           </place>
           <place xml:id="giardino-1005" type="garden">
-            <rel which="prato-1005" type="inside"/>
             <placeName>giardino (X.5)</placeName>
             <location>
               <country>Italy</country>
               <region>Friuli-VenetiaJulia</region>
               <settlement>Udine</settlement>
             </location>
+            <note corresp="prato-1005" type="inside"/>
           </place>
           <place xml:id="giardino-1006" type="garden">
-            <rel which="casamento-1006" type="inside"/>
             <placeName>giardino di Neri Uberti (X.6)</placeName>
             <location>
               <country>Italy</country>
               <region>Campania</region>
               <settlement>CastellammareStabia</settlement>
             </location>
+            <note corresp="casamento-1006" type="inside"/>
           </place>
           <place xml:id="luogo-1009" type="villa">
-            <rel which="ticino" type="closeto"/>
             <placeName>un luogo di Torello (X.9)</placeName>
             <location>
               <country>Italy</country>
               <region>Lombardy</region>
             </location>
+            <note corresp="ticino" type="closeto"/>
           </place>
           <place xml:id="monistero-0104" type="monastery">
             <placeName>monistero (I.4)</placeName>
@@ -7453,12 +7534,12 @@
             </location>
           </place>
           <place xml:id="pero-0709" type="tree">
-            <rel which="giardino-0709" type="inside"/>
             <placeName>pero (VII.9)</placeName>
             <location>
               <country>Greece-Balkans</country>
               <settlement>Argo</settlement>
             </location>
+            <note corresp="giardino-0709" type="inside"/>
           </place>
           <place xml:id="piazza-0510" type="square">
             <placeName>Piazza (V.10)</placeName>
@@ -7498,22 +7579,22 @@
           <!--*********-->
           <!--unnamed places in the frame-->
           <place xml:id="alberifrutt-c06" type="tree">
-            <rel which="valledonnebrigata-01" type="inside"/>
             <placeName>albori fruttiferi (VI.con)</placeName>
             <desc>imaginary</desc>
             <location>
               <country>Italy</country>
               <region>Tuscany</region>
             </location>
+            <note corresp="valledonnebrigata-01" type="inside"/>
           </place>
           <place xml:id="boschetto-i09" type="wood">
-            <rel which="palagiobrigata-02" type="closeto"/>
             <placeName>boschetto (IX.in)</placeName>
             <desc>imaginary</desc>
             <location>
               <country>Italy</country>
               <region>Tuscany</region>
             </location>
+            <note corresp="palagiobrigata-02" type="closeto"/>
           </place>
           <place xml:id="canaletti-i03">
             <placeName>canaletti (III.in)</placeName>
@@ -7558,22 +7639,22 @@
             </location>
           </place>
           <place xml:id="fiumicello1-c06" type="stream">
-            <rel which="valledonnebrigata-01" type="inside"/>
             <placeName>chiarissimo fiumicello (VI.con)</placeName>
             <desc>imaginary</desc>
             <location>
               <country>Italy</country>
               <region>Tuscany</region>
             </location>
+            <note corresp="valledonnebrigata-01" type="inside"/>
           </place>
           <place xml:id="fiumicello2-c06" type="stream">
-            <rel which="valledonnebrigata-01" type="inside"/>
             <placeName>fiumicello (VI.con)</placeName>
             <desc>imaginary</desc>
             <location>
               <country>Italy</country>
               <region>Tuscany</region>
             </location>
+            <note corresp="valledonnebrigata-01" type="inside"/>
           </place>
           <place xml:id="montagnetta-i01" type="mountain">
             <placeName>montagnetta (I.in)</placeName>
@@ -7590,13 +7671,13 @@
             </location>
           </place>
           <place xml:id="montagnette-c06" type="hill">
-            <rel which="valledonnebrigata-01" type="around"/>
             <placeName>sei montagnette (VI.con)</placeName>
             <desc>imaginary</desc>
             <location>
               <country>Italy</country>
               <region>Tuscany</region>
             </location>
+            <note corresp="valledonnebrigata-01" type="around"/>
           </place>
           <place xml:id="pratello-i02" type="lawn">
             <placeName>pratello (II.in)</placeName>
@@ -7613,13 +7694,13 @@
             </location>
           </place>
           <place xml:id="prato-c06" type="lawn">
-            <rel which="valledonnebrigata-01" type="inside"/>
             <placeName>prato d'erba minutissima (VI.con)</placeName>
             <desc>imaginary</desc>
             <location>
               <country>Italy</country>
               <region>Tuscany</region>
             </location>
+            <note corresp="valledonnebrigata-01" type="inside"/>
           </place>
           <place xml:id="rivo-c01" type="river">
             <placeName>rivo (I.con)</placeName>
@@ -7664,13 +7745,13 @@
             </location>
           </place>
           <place xml:id="laghettobrigata-01" type="lake">
-            <rel which="valledonnebrigata-01" type="inside"/>
             <placeName>laghetto / pelaghetto</placeName>
             <desc>imaginary</desc>
             <location>
               <country>Italy</country>
               <region>Tuscany</region>
             </location>
+            <note corresp="valledonnebrigata-01" type="inside"/>
           </place>
           <place xml:id="mulinibrigata-01" type="mill">
             <placeName>mulina (III.in)</placeName>
@@ -7799,7 +7880,7 @@
     <body>
       <!--Giornate-->
       <!-- Giornata Prima -->
-      <div1 type="Day" ruler="pampinea" xml:id="day01">
+      <div1 type="Day" corresp="pampinea" xml:id="day01">
         <head>Prima Giornata</head>
         <argument>
           <p>
@@ -10338,7 +10419,7 @@
         </div2>
       </div1>
       <!-- Giornata Seconda -->
-      <div1 type="Day" ruler="filomena" xml:id="day02">
+      <div1 type="Day" corresp="filomena" xml:id="day02">
         <head>Seconda Giornata</head>
         <argument>
           <p>
@@ -15026,7 +15107,7 @@ always duke of Athens***-->
         </div2>
       </div1>
       <!-- Giornata Terza -->
-      <div1 type="Day" ruler="neifile" xml:id="day03">
+      <div1 type="Day" corresp="neifile" xml:id="day03">
         <head>Terza Giornata</head>
         <argument>
           <p>
@@ -18738,7 +18819,7 @@ d&#237; d'Ognissanti-->
         </div2>
       </div1>
       <!-- Giornata Quarta -->
-      <div1 type="Day" ruler="filostrato" xml:id="day04">
+      <div1 type="Day" corresp="filostrato" xml:id="day04">
         <head>Quarta Giornata</head>
         <argument>
           <p>
@@ -21839,7 +21920,7 @@ d&#237; d'Ognissanti-->
         </div2>
       </div1>
       <!-- Giornata Quinta -->
-      <div1 type="Day" ruler="fiammetta" xml:id="day05">
+      <div1 type="Day" corresp="fiammetta" xml:id="day05">
         <head>Quinta Giornata</head>
         <argument>
           <p>
@@ -25008,7 +25089,7 @@ d&#237; d'Ognissanti-->
         </div2>
       </div1>
       <!-- Giornata Sesta -->
-      <div1 type="Day" ruler="elissa" xml:id="day06">
+      <div1 type="Day" corresp="elissa" xml:id="day06">
         <head>Sesta Giornata</head>
         <argument>
           <p>
@@ -26668,7 +26749,7 @@ it*******-->
         </div2>
       </div1>
       <!-- Giornata Settima -->
-      <div1 type="Day" ruler="dioneo" xml:id="day07">
+      <div1 type="Day" corresp="dioneo" xml:id="day07">
         <head>Settima Giornata</head>
         <argument>
           <p>
@@ -29595,7 +29676,7 @@ it*******-->
         </div2>
       </div1>
       <!-- Giornata Ottava -->
-      <div1 type="Day" ruler="lauretta" xml:id="day08">
+      <div1 type="Day" corresp="lauretta" xml:id="day08">
         <head>Ottava Giornata</head>
         <argument>
           <p>
@@ -33461,7 +33542,7 @@ exactly
         </div2>
       </div1>
       <!-- Giornata Nona -->
-      <div1 type="Day" ruler="emilia" xml:id="day09">
+      <div1 type="Day" corresp="emilia" xml:id="day09">
         <head>Nona Giornata</head>
         <argument>
           <p>
@@ -35730,7 +35811,7 @@ Settima-->
         </div2>
       </div1>
       <!-- Giornata Decima -->
-      <div1 type="Day" ruler="panfilo" xml:id="day10">
+      <div1 type="Day" corresp="panfilo" xml:id="day10">
         <head>Decima Giornata</head>
         <argument>
           <p>
