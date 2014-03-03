@@ -1,6 +1,8 @@
 $mkdir ~/Decameron
 # Creates a directory for your project called "Hello-World" in your user directory
 
+Here's an edit of some words
+
 cd ~/Decameron
 # Changes the current working directory to your newly created directory
 
