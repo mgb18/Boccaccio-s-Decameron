@@ -1,0 +1,114 @@
+body{
+    background-color:#FFCC99;
+    color:#330033;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    text-align:center;
+    font-weight:bold;
+    padding-top:15px;
+    background-image: url('http://i630.photobucket.com/albums/uu22/Bronchitus22/Parchment-full-size.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: .1px .1px #333333;
+    padding-bottom:15px;
+}
+
+h1{
+    font-family:"Old English Text MT", "Palantino Linotype", "Book Antiqua", Palantino, serif;
+    text-shadow:2px 1px #666666;
+    font-size:400%;
+    color:#003333;
+    text-align:center;
+}
+
+h2{
+    padding-top: 15px;
+    font-family:"Old English Text MT", "Palantino Linotype", "Book Antiqua", Palantino, serif;
+    color:#003333;
+    text-shadow:1px 1px #666666;
+    font-size:200%;
+    font-weight:bold;
+    text-align:center;
+}
+
+h3{
+    font-family:"Old English Text MT", "Palantion Linotype", "Book Antiqua", Palantion, serif;
+    color:#003333;
+    font-size:200%;
+    text-shadow:1px 1px #666666;
+    font-weight:bold;
+    text-align:center;
+}
+
+img{
+    margin:5px;
+    padding:5px;
+    height:auto;
+    width:350px;
+    text-align:center;
+}
+
+p{
+    padding-right:250px;
+    padding-left:250px;
+}
+
+#navbar ul{
+    margin:auto;
+    width:560px;
+    list-style-type:none;
+    text-align:center;
+    background-color:#996633;
+    position:relative;
+    padding-top:5px;
+}
+
+#navbar ul li{
+    display:block;
+    text-align:center;
+    float:left;
+}
+
+#navbar ul li a{
+    text-decoration:none;
+    padding:.005em 1em;
+    color:#003333;
+    text-align:center;
+    display:block;
+    border-top:2px solid #666699;
+    border-bottom:2px
+ solid #666699;
+}
+
+#navbar ul li a:hover{
+    color:#330033;
+    background-color:#996633;
+    text-align:center;
+}
+
+#navbar li ul{
+    display:none;
+    margin-left:0px;
+    padding:0px;
+    position:relative;
+    width:200px;
+}
+
+#navbar li:hover ul{
+    margin:0 auto;
+    display:block;
+    position:absolute;
+}
+
+#navbar li:hover li{
+    float:none;
+}
+
+#navbar ul ul li{
+    text-align:center;
+    background-color:#FF9999;
+}
+
+#navbar ul ul li a{
+    padding:.005em 1.21em;
+    border:none;
+}
