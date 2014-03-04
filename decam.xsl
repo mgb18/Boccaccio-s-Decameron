@@ -11,6 +11,7 @@
            <title>
                 Decameron
            </title>
+           <link rel="stylesheet" type="text/css" href="textdecameronhtml.html" />
        </head>
        <h1>
            Decameron
