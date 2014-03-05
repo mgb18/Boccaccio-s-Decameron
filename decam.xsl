@@ -16,11 +16,6 @@
        <h1>
            Decameron
        </h1>
-       <h2>
-           <ul>
-           <xsl:apply-templates select="//head"/>
-           </ul>
-       </h2>
        <body>
            <xsl:apply-templates select="//sp/p"/>
        </body>
