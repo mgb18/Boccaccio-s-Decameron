@@ -11,14 +11,35 @@
            <title>
                 Decameron
            </title>
-           <link rel="stylesheet" type="text/css" href="textdecameronhtml.html" />
+           <link rel="stylesheet" type="text/css" href="textdecameroncss.css" />
        </head>
        <h1>
            Decameron
        </h1>
+       <h3>
+           English Translation
+       </h3>
+       <h4>
+           Stories by Giovanni Boccaccio
+       </h4>
        <body>
-           <xsl:apply-templates select="//sp/p"/>
+           <xsl:apply-templates select="//body"/>
        </body>
    </html>
+    </xsl:template>
+    <xsl:template match= "p"> 
+        <p>
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+    <xsl:template match="div1/head">
+        <h2>
+            <xsl:apply-templates/>
+        </h2>
+    </xsl:template>
+    <xsl:template match="div2/head">
+        <h4>
+            <xsl:apply-templates/>
+        </h4>
     </xsl:template>
 </xsl:stylesheet>
