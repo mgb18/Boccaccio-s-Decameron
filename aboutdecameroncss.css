@@ -112,3 +112,11 @@ p{
     padding:.005em 1.21em;
     border:none;
 }
+
+img{
+    margin:5px;
+    padding:5px;
+    height:auto;
+    width:300px;
+    text-align:center;
+}
