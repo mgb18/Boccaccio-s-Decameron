@@ -21999,19 +21999,19 @@
               be a very courteous thing to give them to drink of his good wine; but comparing his
               rank with that of Messer Geri, he deemed it unseemly to presume to invite him, and
               cast about how he might lead Messer Geri to invite himself. <milestone unit="locus"
-                xml:id="p06020011"/>So, wearing always the whitest of doublets and a spotless apron,
+                xml:id="p06020011"/><span resp="male" style="manipulative">So, wearing always the whitest of doublets and a spotless apron,
               that denoted rather the miller than the baker, he let bring, every morning about the
               hour that he expected Messer Geri and the ambassadors to pass by his door, a
               spick-and-span bucket of fresh and cool spring water, and a small Bolognese flagon of
               his good white wine, and two beakers that shone like silver, so bright were they:
                 <milestone unit="locus" xml:id="p06020012"/>and there down he sat him, as they came
               by, and after hawking once or twice, fell a drinking his wine with such gusto that
-              'twould have raised a thirst in a corpse. <milestone unit="locus" xml:id="p06020013"
+              'twould have raised a thirst in a corpse.</span> <milestone unit="locus" xml:id="p06020013"
               />Which Messer Geri having observed on two successive mornings, said on the third:
                 <q>What is't, Cisti? Is't good?</q>
               <milestone unit="locus" xml:id="p06020014"/>Whereupon Cisti jumped up, and answered:
-                <q>Ay, Sir, good it is; but in what degree I might by no means make you understand,
-                unless you tasted it.</q>
+                <q><said who="male" style="deceptive">Ay, Sir, good it is; but in what degree I might by no means make you understand,
+                unless you tasted it.</said></q>
               <milestone unit="locus" xml:id="p06020015"/>Messer Geri, in whom either the heat of
               the weather, or unwonted fatigue, or, perchance, the gusto with which he had seen
               Cisti drink, had bred a thirst, turned to the ambassadors and said with a smile:
@@ -22113,15 +22113,15 @@
               Messer Dego della Ratta by name, being King Ruberto's marshal. Now Dego being very
               goodly of person, and inordinately fond of women, it so befell that of the ladies of
               Florence she that he regarded with especial favour was the very beautiful niece of a
-              brother of the said bishop. <milestone unit="locus" xml:id="p06030007"/>And having
+              brother of the said bishop. <milestone unit="locus" xml:id="p06030007"/><span resp="male" style="hyper-sexual">And having
               learned that her husband, though of good <pb n="81"/>family, was but a caitiff, and
               avaricious in the last degree, he struck a bargain with him that he should lie one
               night with the lady for five hundred florins of gold: whereupon he had the same number
-              of popolins<note>A coin of the same size and design as the fiorino d'oro, but worth
+              of popolins</span><note>A coin of the same size and design as the fiorino d'oro, but worth
                 only two soldi.</note> of silver, which were then current, gilded, and having lain
-              with the lady, albeit against her will, gave them to her husband. Which coming to be
+              with the lady, albeit against her will, gave them to her husband.<span resp="male" style="manipulative">Which coming to be
               generally known, the caitiff husband was left with the loss and the laugh against him;
-              and the bishop, like a wise man, feigned to know nought of the affair. <milestone
+              and the bishop, like a wise man, feigned to know nought of the affair.</span><milestone
                 unit="locus" xml:id="p06030008"/>And so the bishop and the marshal being much
               together, it befell that on St. John's day, as they rode side by side down the street
               whence they start to run the palio,<note>A sort of horse-race still in vogue at
@@ -22131,14 +22131,14 @@
                 xml:id="p06030009"/>whom, for that she was lusty and fair, and of excellent
               discourse and a good courage, and but just settled with her husband in Porta San
               Piero, the bishop presented to the marshal; and then, being close beside her, he laid
-              his hand on the marshal's shoulder and said to her: <q>Nonna, what thinkest thou of
-                this gentleman? That thou mightst make a conquest of him?</q>
+              his hand on the marshal's shoulder and said to her: <said who="male" style="lustful"><q>Nonna, what thinkest thou of
+                this gentleman? That thou mightst make a conquest of him?</q></said>
               <milestone unit="locus" xml:id="p06030010"/>Which words the lady resented as a jibe at
               her honour, and like to tarnish it in the eyes of those, who were not a few, in whose
               hearing they were spoken Wherefore without bestowing a thought upon the vindication of
               her honour, but being minded to return blow for blow, she retorted hastily:
-                <q>Perchance, Sir, he might not make a conquest of me; but if he did so, I should
-                want good money.</q>
+                <said who="female" style="clever"><q>Perchance, Sir, he might not make a conquest of me; but if he did so, I should
+                want good money.</q></said>
               <milestone unit="locus" xml:id="p06030011"/>The answer stung both the marshal and the
               bishop to the quick, the one as contriver of the scurvy trick played upon the bishop's
               brother in regard of his niece, the other as thereby outraged in the person of his
@@ -22195,8 +22195,8 @@
               Chichibio fell a singing: <q>You get it not from me, Madam Brunetta, you get it not
                 from me.</q>
               <milestone unit="locus" xml:id="p06040009"/>Whereat Madam Brunetta was offended, and
-              said to him: <q>By God, if thou givest it me not, thou shalt never have aught from me
-                to pleasure thee.</q> In short there was not a little altercation; and in the end
+              said to him: <q><said who="female" style="honest">if thou givest it me not, thou shalt never have aught from me
+                to pleasure thee.</said></q> In short there was not a little altercation; and in the end
               Chichibio, fain not to vex his mistress, cut off one of the crane's thighs, and gave
               it to her. <milestone unit="locus" xml:id="p06040010"/>So the bird was set before
               Currado and some strangers that he had at table with him, and Currado, observing that
@@ -22228,9 +22228,9 @@
               feet. <milestone unit="locus" xml:id="p06040016"/>However, as they approached the
               river, the very first thing they saw upon the bank was a round dozen of cranes
               standing each and all on one foot, as is their wont, when asleep. Which Chichibio
-              presently pointed out to Currado, saying: <q>Now may you see well enough, Sir, that
+              presently pointed out to Currado, saying: <q><said who="male" style="deceptive">Now may you see well enough, Sir, that
                 'tis true as I said yesternight, that <pb n="84"/>the crane has but one thigh and
-                one leg; mark but how they stand over there.</q>
+                one leg; mark but how they stand over there.</said></q>
               <milestone unit="locus" xml:id="p06040017"/>Whereupon Currado: <q>Wait,</q> quoth he,
                 <q>and I will shew thee that they have each thighs and legs twain.</q> So, having
               drawn a little nigher to them, he ejaculated, <q>Ohio!</q> Which caused the cranes to
@@ -22381,11 +22381,11 @@
               <pb n="88"/><milestone unit="locus" xml:id="p06060007"/>Whereupon the young men, who
               had looked for somewhat else from him, said derisively: <q>Thou dost but jest with us;
                 as if we did not know the Baronci as well as thou!</q>
-              <milestone unit="locus" xml:id="p06060008"/>Quoth Scalza: <q>By the Gospels I jest
+              <milestone unit="locus" xml:id="p06060008"/>Quoth Scalza: <q><said who="male" style="honest">By the Gospels I jest
                 not, but speak sooth; and if there is any of you will wager a supper to be given to
                 the winner and six good fellows whom he shall choose, I will gladly do the like,
                 and--what is more--I will abide by the decision of such one of you as you may
-                choose.</q>
+                choose.</said></q>
               <milestone unit="locus" xml:id="p06060009"/>Then said one of them whose name was Neri
               Mannini: <q>I am ready to adventure this supper;</q> and so they agreed together that
               Piero di Fiorentino, in whose house they were, should be judge, and hied them to him
@@ -22401,7 +22401,7 @@
                 gentility, and I say that the Baronci are of longer descent, and thus better
                 gentlemen than any other men. If, then, I prove to you that they are of longer
                 descent than any other men, without a doubt the victory in this dispute will rest
-                with me. <milestone unit="locus" xml:id="p06060013"/>Now you must know that when God
+                with me. <milestone unit="locus" xml:id="p06060013"/><said who="male" style="clever">Now you must know that when God
                 made the Baronci, He was but a novice in His art, of which, when He made the rest of
                 mankind, He was already master. <milestone unit="locus" xml:id="p06060014"/>And to
                 assure yourself that herein I say sooth, you have but to consider the Baronci, how
@@ -22411,10 +22411,10 @@
                 with a short one, one with a protruding and upturned chin, and great jaws like an
                 ass's; and again there will be one that has one eye larger than its fellow, or set
                 on a lower plane; so that their faces resemble those that children make when they
-                begin to learn to draw. <milestone unit="locus" xml:id="p06060015"/>Whereby, as I
+                begin to learn to draw.</said><milestone unit="locus" xml:id="p06060015"/><said who="male" style="clever">Whereby, as I
                 said, 'tis plainly manifest that, when God made them, He was but novice in His art;
                 and so they are of longer descent than the rest of mankind, and by consequence
-                better gentlemen.</q>
+                better gentlemen.</said></q>
               <milestone unit="locus" xml:id="p06060016"/>By which entertaining argument Piero, the
               judge, and Neri who had wagered the supper, and all the rest, calling to mind the
               Baronci's <pb n="89"/>ugliness, were so tickled, that they fell a laughing, and
@@ -22461,11 +22461,11 @@
               a statute no less censurable than harsh, which, making no distinction between the wife
               whom her husband took in adultery with her lover, and the woman found pleasuring a
               stranger for money, condemned both alike to be burned. <milestone unit="locus"
-                xml:id="p06070005"/>While this statute was in force, it befell that a gentle-woman,
+                xml:id="p06070005"/><span resp="female" style="hyper-sexual">While this statute was in force, it befell that a gentle-woman,
               fair and beyond measure enamoured, Madonna Filippa by name, was by her husband,
               Rinaldo de' Pugliesi, found in her own chamber one night in the arms of Lazzarino de'
               Guazzagliotri, a handsome young noble of the same city, whom she loved even as
-              herself. <milestone unit="locus" xml:id="p06070006"/>Whereat Rinaldo, very wroth,
+              herself. </span><milestone unit="locus" xml:id="p06070006"/>Whereat Rinaldo, very wroth,
               scarce refrained from falling upon them and killing them on the spot; and indeed, but
               that he doubted how he should afterwards fare himself, he had given way to the
               vehemence of his anger, and so done. <milestone unit="locus" xml:id="p06070007"/>Nor,
@@ -22494,27 +22494,27 @@
                 wherefore be very careful what you answer, and tell me if what your husband alleges
                 against you be true.</q>
               <milestone unit="locus" xml:id="p06070013"/>The lady, no wise dismayed, and in a tone
-              not a little jocund, thus made answer: <q>True it is, Sir, that Rinaldo is my husband,
+              not a little jocund, thus made answer: <q><said who="female" style="honest">True it is, Sir, that Rinaldo is my husband,
                 and that last night he found me in the arms of Lazzarino, in whose arms for the
                 whole-hearted love that I bear him I have ofttimes lain; nor shall I ever deny it;
                 but, as well I wot you know, the laws ought to be common and enacted with the common
-                consent of all that they affect; <milestone unit="locus" xml:id="p06070014"/>which
+                consent of all that they affect;</said><milestone unit="locus" xml:id="p06070014"/><said who="female" style="clever">which
                 conditions are wanting to this law, inasmuch as it binds only us poor women, in whom
                 to be liberal is much less reprehensible than it were in men; and furthermore the
                 consent of no woman was--I say not had, but--so much as asked before 'twas made; for
-                which reasons it justly deserves to be called a bad law. <milestone unit="locus"
+                which reasons it justly deserves to be called a bad law.<milestone unit="locus"
                   xml:id="p06070015"/>However, if in scathe of my body and your own soul, you are
                 minded to put it in force, 'tis your affair; but, I pray you, go not <pb n="92"/>on
                 to try this matter in any wise, until you have granted me this trifling grace, to
                 wit, to ask my husband if I ever gainsaid him, but did not rather accord him, when
-                and so often as he craved it, complete enjoyment of myself.</q>
+                and so often as he craved it, complete enjoyment of myself.</said></q>
               <milestone unit="locus" xml:id="p06070016"/>Whereto Rinaldo, without awaiting the
               Podest&#224;'s question, forthwith answered, that assuredly the lady had ever granted
               him all that he had asked of her for his gratification. <milestone unit="locus"
-                xml:id="p06070017"/><q>Then,</q> promptly continued the lady, <q>if he has ever had
+                xml:id="p06070017"/><q>Then,</q> promptly continued the lady, <q><said who="female" style="clever">if he has ever had
                 of me as much as sufficed for his solace, what was I or am I to do with the surplus?
                 Am I to cast it to the dogs? Is it not much better to bestow it on a gentleman that
-                loves me more dearly than himself, than to suffer it to come to nought or worse?</q>
+                loves me more dearly than himself, than to suffer it to come to nought or worse?</said></q>
               <milestone unit="locus" xml:id="p06070018"/>Which jocund question being heard by
               well-nigh all the folk of Prato, who had flocked thither all agog to see a dame so
               fair and of such quality on her trial for such an offence, they laughed loud and long,
@@ -22577,12 +22577,12 @@
               chafe. Whereupon: <q>Ciesca,</q> quoth he, <q>what means this, that, though 'tis a
                 feast-day, yet thou art come back so soon?</q>
               <milestone unit="locus" xml:id="p06080008"/>She, all but dissolved with her vapourish
-              humours, made answer: <q>Why, the truth is, that I am come back early because never, I
+              humours, made answer: <q><said who="female" style="honest">Why, the truth is, that I am come back early because never, I
                 believe, were there such odious and tiresome men and women in this city as there are
                 to-day. I cannot pass a soul in the street that I loathe not like ill-luck; and I
                 believe there is not a woman in the world that is so distressed by the sight of
                 odious people as I am; and so I am come home thus soon to avoid the sight of
-                them.</q>
+                them.</said></q>
               <milestone unit="locus" xml:id="p06080009"/>Whereupon Fresco, to whom his niece's bad
               manners were distasteful in the extreme: <q>Daughter,</q> quoth he, <q>if thou loathe
                 odious folk as much as thou sayest, thou wert best, so thou wouldst live happy,
@@ -24176,7 +24176,7 @@
                 hadst gone out to sup and sleep. <milestone unit="locus" xml:id="p07050058"
                 />Consider thy ways, and court not the mockery of those that know them as I do, but
                 turn a man again as thou wast wont to be: and let there be no more of this strict
-                restraint in which thou keepest me; for I swear to thee by God that, if I were
+                restraint in which thou keepest me; for I swear to thee  that, if I were
                 minded to set horns on thy brow, I should not fail so to take my pastime that thou
                 wouldst never find it out, though thou hadst a hundred eyes, as thou hast but
                 two.</q></p>
@@ -24276,7 +24276,7 @@
               Lambertuccio, <q>if you have any regard for me, and would save my life, you will do as
                 I bid you: <milestone unit="locus" xml:id="p07060016"/>that is to say, you will draw
                 your blade, and put on a fell and wrathful countenance, and hie you downstairs,
-                saying: 'By God, he shall not escape me elsewhere.' And if my husband would stop
+                saying: ', he shall not escape me elsewhere.' And if my husband would stop
                 you, or ask you aught, say nought but what I have told you, and get you on horseback
                 and tarry with him on no account.</q>
               <milestone unit="locus" xml:id="p07060017"/><q>To hear is to obey,</q> quoth Messer
