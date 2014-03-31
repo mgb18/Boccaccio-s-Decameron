@@ -32,8 +32,8 @@
             <xsl:apply-templates/>
         </p>
     </xsl:template>
-    <xsl:template match="div1/head">
-        <h2>
+    <xsl:template match="div1/head" mode="toc">
+        <h2 id= "Day{@xml:id}"> 
             <xsl:apply-templates/>
         </h2>
     </xsl:template>
@@ -41,5 +41,12 @@
         <h4>
             <xsl:apply-templates/>
         </h4>
+    </xsl:template>
+    <xsl:template match="div1" mode="toc">
+        <li>
+            <a href="#Day{@xml:id}">
+                <xsl:apply-templates select="div1/head" mode="toc"/>
+            </a>
+        </li>
     </xsl:template>
 </xsl:stylesheet>
