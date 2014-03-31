@@ -23,30 +23,45 @@
            Stories by Giovanni Boccaccio
        </h4>
        <body>
+           <ul>
+               <xsl:apply-templates select="//body" mode="toc"/>
+           </ul>
            <xsl:apply-templates select="//body"/>
+           
        </body>
    </html>
-    </xsl:template>
-    <xsl:template match= "p"> 
-        <p>
-            <xsl:apply-templates/>
-        </p>
-    </xsl:template>
-    <xsl:template match="div1/head" mode="toc">
-        <h2 id= "Day{@xml:id}"> 
-            <xsl:apply-templates/>
-        </h2>
-    </xsl:template>
-    <xsl:template match="div2/head">
-        <h4>
-            <xsl:apply-templates/>
-        </h4>
     </xsl:template>
     <xsl:template match="div1" mode="toc">
         <li>
             <a href="#Day{@xml:id}">
                 <xsl:apply-templates select="div1/head" mode="toc"/>
             </a>
+            <ul>
+                <xsl:apply-templates select="div2" mode="toc"/>
+            </ul>
         </li>
     </xsl:template>
+    <xsl:template match="div2" mode="toc">
+        <li>
+            <a href="#{@xml:id}">
+                <xsl:apply-templates select="div2/head" mode="toc"/>
+            </a>
+        </li>
+    </xsl:template>
+    <xsl:template match= "p"> 
+        <p>
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+    <xsl:template match="div1/head">
+        <h2 id= "Day{@xml:id}"> 
+            <xsl:apply-templates/>
+        </h2>
+    </xsl:template>
+    <xsl:template match="div2/head">
+        <h4 id="{@xml:id}">
+            <xsl:apply-templates/>
+        </h4>
+    </xsl:template>
+    
 </xsl:stylesheet>
