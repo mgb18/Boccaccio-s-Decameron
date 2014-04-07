@@ -13,3 +13,23 @@ function show_hide() {
         p.style.display = "none";
     }
 }
+
+combine?  edit?
+
+
+function next(elem) {
+    do {
+        elem = elem.nextSibling;
+    }
+    while (elem && elem.nodeType != 1);
+    return elem;
+}
+function showHide(sender) {
+    var WHAT SHOULD THIS VAR BE? = sender;
+    var nextElem = next(dt);
+    if (nextElem.style.display != 'none') {
+        nextElem.style.display = 'block';
+    } else {
+        nextElem.style.display = 'none';
+    }
+}
