@@ -7,10 +7,10 @@ body{
     background-image: url('http://i630.photobucket.com/albums/uu22/Bronchitus22/Parchment-full-size.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    text-shadow: .1px .1px #333333;
-    padding-bottom:15px;
 }
 
+    text-shadow: .1px .1px #333333;
+    padding-bottom:15px;
 h1{
     font-family:"Old English Text MT", "Palantino Linotype", "Book Antiqua", Palantino, serif;
     text-shadow:2px 1px #666666;
