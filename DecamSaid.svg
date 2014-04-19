@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     width="100%"
+     height="100%">
+   <g transform="translate(30 500)">
+      <line x1="0"
+            y1="-40"
+            x2="1075"
+            y2="-40"
+            stroke="black"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <text x="-10"
+            y="-40"
+            text-anchor="middle"
+            style="font-size:13px;font-family:'Palatino Linotype', 'Book                     Antiqua', Palatino, serif;">5</text>
+      <line x1="0"
+            y1="-80"
+            x2="1075"
+            y2="-80"
+            stroke="black"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <text x="-10"
+            y="-80"
+            text-anchor="middle"
+            style="font-size:13px;font-family:'Palatino Linotype', 'Book                     Antiqua', Palatino, serif;">10</text>
+      <line x1="0"
+            y1="-120"
+            x2="1075"
+            y2="-120"
+            stroke="black"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <text x="-10"
+            y="-120"
+            text-anchor="middle"
+            style="font-size:13px;font-family:'Palatino Linotype', 'Book                     Antiqua', Palatino, serif;">15</text>
+      <line x1="0"
+            y1="-160"
+            x2="1075"
+            y2="-160"
+            stroke="black"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <text x="-10"
+            y="-160"
+            text-anchor="middle"
+            style="font-size:13px;font-family:'Palatino Linotype', 'Book                     Antiqua', Palatino, serif;">20</text>
+      <line x1="0"
+            y1="-200"
+            x2="1075"
+            y2="-200"
+            stroke="black"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <text x="-10"
+            y="-200"
+            text-anchor="middle"
+            style="font-size:13px;font-family:'Palatino Linotype', 'Book                     Antiqua', Palatino, serif;">25</text>
+      <line x1="0"
+            y1="-240"
+            x2="1075"
+            y2="-240"
+            stroke="black"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <text x="-10"
+            y="-240"
+            text-anchor="middle"
+            style="font-size:13px;font-family:'Palatino Linotype', 'Book                     Antiqua', Palatino, serif;">30</text>
+      <line x1="0"
+            y1="-280"
+            x2="1075"
+            y2="-280"
+            stroke="black"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <text x="-10"
+            y="-280"
+            text-anchor="middle"
+            style="font-size:13px;font-family:'Palatino Linotype', 'Book                     Antiqua', Palatino, serif;">35</text>
+      <line x1="0"
+            y1="-320"
+            x2="1075"
+            y2="-320"
+            stroke="black"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <text x="-10"
+            y="-320"
+            text-anchor="middle"
+            style="font-size:13px;font-family:'Palatino Linotype', 'Book                     Antiqua', Palatino, serif;">40</text>
+      <line x1="0"
+            y1="-360"
+            x2="1075"
+            y2="-360"
+            stroke="black"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <text x="-10"
+            y="-360"
+            text-anchor="middle"
+            style="font-size:13px;font-family:'Palatino Linotype', 'Book                     Antiqua', Palatino, serif;">45</text>
+      <line x1="0"
+            y1="-400"
+            x2="1075"
+            y2="-400"
+            stroke="black"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <text x="-10"
+            y="-400"
+            text-anchor="middle"
+            style="font-size:13px;font-family:'Palatino Linotype', 'Book                     Antiqua', Palatino, serif;">50</text>
+      <line x1="0"
+            y1="-440"
+            x2="1075"
+            y2="-440"
+            stroke="black"
+            stroke-width="1"
+            stroke-dasharray="5,5"/>
+      <text x="-10"
+            y="-440"
+            text-anchor="middle"
+            style="font-size:13px;font-family:'Palatino Linotype', 'Book                     Antiqua', Palatino, serif;">55</text>
+      <g transform="translate(0)">
+         <rect x="20" y="-56" width="25" height="56" fill="blue"/>
+         <text text-anchor="middle"
+               x="35"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">M</text>
+         <rect x="50" y="-8" width="25" height="8" fill="pink"/>
+         <text text-anchor="middle"
+               x="55"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">F</text>
+         <text x="40"
+               y="45"
+               text-anchor="middle"
+               style="font-size:13px;font-family:'Palatino Linotype', 'Book                             Antiqua', Palatino, serif;">assertive</text>
+      </g>
+      <g transform="translate(90)">
+         <rect x="20" y="-56" width="25" height="56" fill="blue"/>
+         <text text-anchor="middle"
+               x="35"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">M</text>
+         <rect x="50" y="-8" width="25" height="8" fill="pink"/>
+         <text text-anchor="middle"
+               x="55"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">F</text>
+         <text x="41"
+               y="45"
+               text-anchor="middle"
+               style="font-size:13px;font-family:'Palatino Linotype', 'Book                             Antiqua', Palatino, serif;">blasphemous</text>
+      </g>
+      <g transform="translate(180)">
+         <rect x="20" y="-200" width="25" height="200" fill="blue"/>
+         <text text-anchor="middle"
+               x="35"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">M</text>
+         <rect x="50" y="-584" width="25" height="584" fill="pink"/>
+         <text text-anchor="middle"
+               x="55"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">F</text>
+         <text x="42"
+               y="45"
+               text-anchor="middle"
+               style="font-size:13px;font-family:'Palatino Linotype', 'Book                             Antiqua', Palatino, serif;">clever</text>
+      </g>
+      <g transform="translate(270)">
+         <rect x="20" y="-32" width="25" height="32" fill="blue"/>
+         <text text-anchor="middle"
+               x="35"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">M</text>
+         <rect x="50" y="-152" width="25" height="152" fill="pink"/>
+         <text text-anchor="middle"
+               x="55"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">F</text>
+         <text x="43"
+               y="45"
+               text-anchor="middle"
+               style="font-size:13px;font-family:'Palatino Linotype', 'Book                             Antiqua', Palatino, serif;">confident</text>
+      </g>
+      <g transform="translate(360)">
+         <rect x="20" y="-0" width="25" height="0" fill="blue"/>
+         <text text-anchor="middle"
+               x="35"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">M</text>
+         <rect x="50" y="-8" width="25" height="8" fill="pink"/>
+         <text text-anchor="middle"
+               x="55"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">F</text>
+         <text x="44"
+               y="45"
+               text-anchor="middle"
+               style="font-size:13px;font-family:'Palatino Linotype', 'Book                             Antiqua', Palatino, serif;">faithful</text>
+      </g>
+      <g transform="translate(450)">
+         <rect x="20" y="-456" width="25" height="456" fill="blue"/>
+         <text text-anchor="middle"
+               x="35"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">M</text>
+         <rect x="50" y="-432" width="25" height="432" fill="pink"/>
+         <text text-anchor="middle"
+               x="55"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">F</text>
+         <text x="45"
+               y="45"
+               text-anchor="middle"
+               style="font-size:13px;font-family:'Palatino Linotype', 'Book                             Antiqua', Palatino, serif;">deceptive</text>
+      </g>
+      <g transform="translate(540)">
+         <rect x="20" y="-0" width="25" height="0" fill="blue"/>
+         <text text-anchor="middle"
+               x="35"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">M</text>
+         <rect x="50" y="-8" width="25" height="8" fill="pink"/>
+         <text text-anchor="middle"
+               x="55"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">F</text>
+         <text x="46"
+               y="45"
+               text-anchor="middle"
+               style="font-size:13px;font-family:'Palatino Linotype', 'Book                             Antiqua', Palatino, serif;">docile</text>
+      </g>
+      <g transform="translate(630)">
+         <rect x="20" y="-72" width="25" height="72" fill="blue"/>
+         <text text-anchor="middle"
+               x="35"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">M</text>
+         <rect x="50" y="-128" width="25" height="128" fill="pink"/>
+         <text text-anchor="middle"
+               x="55"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">F</text>
+         <text x="47"
+               y="45"
+               text-anchor="middle"
+               style="font-size:13px;font-family:'Palatino Linotype', 'Book                             Antiqua', Palatino, serif;">honest</text>
+      </g>
+      <g transform="translate(720)">
+         <rect x="20" y="-8" width="25" height="8" fill="blue"/>
+         <text text-anchor="middle"
+               x="35"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">M</text>
+         <rect x="50" y="-0" width="25" height="0" fill="pink"/>
+         <text text-anchor="middle"
+               x="55"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">F</text>
+         <text x="48"
+               y="45"
+               text-anchor="middle"
+               style="font-size:13px;font-family:'Palatino Linotype', 'Book                             Antiqua', Palatino, serif;">sacreligious</text>
+      </g>
+      <g transform="translate(810)">
+         <rect x="20" y="-120" width="25" height="120" fill="blue"/>
+         <text text-anchor="middle"
+               x="35"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">M</text>
+         <rect x="50" y="-72" width="25" height="72" fill="pink"/>
+         <text text-anchor="middle"
+               x="55"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">F</text>
+         <text x="49"
+               y="45"
+               text-anchor="middle"
+               style="font-size:13px;font-family:'Palatino Linotype', 'Book                             Antiqua', Palatino, serif;">lustful</text>
+      </g>
+      <g transform="translate(900)">
+         <rect x="20" y="-48" width="25" height="48" fill="blue"/>
+         <text text-anchor="middle"
+               x="35"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">M</text>
+         <rect x="50" y="-72" width="25" height="72" fill="pink"/>
+         <text text-anchor="middle"
+               x="55"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">F</text>
+         <text x="50"
+               y="45"
+               text-anchor="middle"
+               style="font-size:13px;font-family:'Palatino Linotype', 'Book                             Antiqua', Palatino, serif;">naive</text>
+      </g>
+      <g transform="translate(990)">
+         <rect x="20" y="-24" width="25" height="24" fill="blue"/>
+         <text text-anchor="middle"
+               x="35"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">M</text>
+         <rect x="50" y="-16" width="25" height="16" fill="pink"/>
+         <text text-anchor="middle"
+               x="55"
+               y="15"
+               style="font-size:18px;font-family:'Palatino Linotype',                                 'Book Antiqua', Palatino, serif;">F</text>
+         <text x="51"
+               y="45"
+               text-anchor="middle"
+               style="font-size:13px;font-family:'Palatino Linotype', 'Book                             Antiqua', Palatino, serif;">submissive</text>
+      </g>
+      <line x1="0"
+            y1="0"
+            x2="1075"
+            y2="0"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="0"
+            y1="0"
+            x2="0"
+            y2="-450"
+            stroke="black"
+            stroke-width="1"/>
+   </g>
+</svg>
