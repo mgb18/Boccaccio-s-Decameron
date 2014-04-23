@@ -34,10 +34,23 @@ h2{
 h3{
     font-family:"Old English Text MT", "Monotype Corsiva", "Book Antiqua", Palantion, serif;
     color:#003333;
-    font-size:200%;
+    font-size:120%;
     text-shadow:1px 1px #666666;
     font-weight:bold;
     text-align:center;
+}
+
+
+li
+{
+text-align:center;
+}
+
+ul
+{
+list-style-position:inside;
+list-style-type:none;
+text-align:center;
 }
 
 img{
