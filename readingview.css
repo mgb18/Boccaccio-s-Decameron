@@ -23,6 +23,7 @@ h1{
 
 h2{
     padding-top: 15px;
+    padding-bottom:50px;
     font-family:"Old English Text MT", "Monotype Corsiva", "Book Antiqua", Palantino, serif;
     color:#003333;
     text-shadow:1px 1px #666666;
@@ -30,6 +31,16 @@ h2{
     font-weight:bold;
     text-align:center;
 }
+
+a{
+    cursor: pointer;
+  }
+
+dt{
+    cursor:pointer;
+    text-align:center;
+}
+
 li
 {
 text-align:center;
@@ -41,6 +52,13 @@ list-style-position:inside;
 list-style-type:none;
 text-align:center;
 }
+
+
+a:link {color:#330033;}      /* unvisited link */
+a:visited {color:#003300;}  /* visited link */
+a:hover {color:#663333;}  /* mouse over link */
+a:active {color:#330033;}  /* selected link */
+
 
 h3{
     font-family:"Old English Text MT", "Palantion Linotype", "Book Antiqua", Palantion, serif;

@@ -9,7 +9,10 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     text-shadow: .1px .1px #333333;
-    margin:50px 100px;
+    margin-top:50px;
+margin-bottom:100px;
+margin-right:200px;
+margin-left:200px;
 
 }
 
@@ -23,6 +26,7 @@ h1{
 
 h2{
     padding-top: 15px;
+    padding-bottom: 50px;
     font-family:"Old English Text MT", "Monotype Corsiva", Palantino, serif;
     color:#003333;
     text-shadow:1px 1px #666666;

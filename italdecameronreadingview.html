@@ -3,6 +3,7 @@
    <head>
       <title>The Women of Boccaccio's Decameron</title>
       <link rel="stylesheet" type="text/css" href="readingview.css" />
+      <script type="text/javascript" src="readingview2.js">/**/</script>
    </head>
    <body>
       <div><h1>Boccaccio's Decameron</h1></div>
@@ -45,12 +46,13 @@
          </ul>
       </div>
          <h2> Italian Translation </h2>
-      <h3> Stories by Giovanni Boccaccio </h3>
+      <h3>Table of Contents: Click to Navigate </h3>
          
-         <li>
-            <ul>
-            <a href="#Dayday01" id="Dayday01_toc">Prima Giornata</a>
-               <li>
+         <dl>
+            <dt onclick="showHide(this);">Prima Giornata</dt>
+               <dd style="display:none;"> 
+                  <ul>
+                  <li>
                   <a href="#Novd01intro" id="Novd01intro_toc">Introduzione</a>
                </li>
                <li>
@@ -87,10 +89,11 @@
                   <a href="#Novd01conclu" id="Novd01conclu_toc">Conclusione</a>
                </li>
             </ul>
-         </li>
+         </dd>
  
-         <li>
-            <a href="#Dayday02" id="Dayday02_toc">Seconda Giornata</a>
+         <dl>
+            <dt onclick="showHide(this);">Seconda Giornata</dt>
+             <dd style="display:none;">
             <ul>
                <li>
                   <a href="#Novd02intro" id="Novd02intro_toc">Introduzione</a>
@@ -129,9 +132,10 @@
                   <a href="#Novd02conclu" id="Novd02conclu_toc">Conclusione</a>
                </li>
             </ul>
-         </li>
-         <li>
-            <a href="#Dayday03" id="Dayday03_toc">Terza Giornata</a>
+         </dd>
+            
+         <dt onclick="showHide(this);">TerzaGiornata</dt>
+           <dd style="display:none;">
             <ul>
                <li>
                   <a href="#Novd03intro" id="Novd03intro_toc">Introduzione</a>
@@ -170,11 +174,11 @@
                   <a href="#Novd03conclu" id="Novd03conclu_toc">Conclusione</a>
                </li>
             </ul>
-         </li>
+         </dd>
          
          
-         <li>
-            <a href="#Dayday04" id="Dayday04_toc">Quarta Giornata</a>
+         <dt onclick="showHide(this);">Quarta Giornata</dt>
+            <dd style="display:none;">
             <ul>
                <li>
                   <a href="#Novd04intro" id="Novd04intro_toc">Introduzione</a>
@@ -213,12 +217,12 @@
                   <a href="#Novd04conclu" id="Novd04conclu_toc">Conclusione</a>
                </li>
             </ul>
-         </li>
+         </dd>
          
          
-         <li>
-            <a href="#Dayday05" id="Dayday05_toc">Quinta Giornata</a>
-            <ul>
+         <dt onclick="showHide(this);">Quinta Giornata</dt>
+            <dd style="display:none;">            
+               <ul>
                <li>
                   <a href="#Novd05intro" id="Novd05intro_toc">Introduzione</a>
                </li>
@@ -256,11 +260,11 @@
                   <a href="#Novd05conclu" id="Novd05conclu_toc">Conclusione</a>
                </li>
             </ul>
-         </li>
+         </dd>
          
          
-         <li>
-            <a href="#Dayday06" id="Dayday06_toc">Sesta Giornata</a>
+         <dt onclick="showHide(this);">Sesta Giornata</dt>
+            <dd style="display:none;">
             <ul>
                <li>
                   <a href="#Novd06intro" id="Novd06intro_toc">Introduzione</a>
@@ -299,11 +303,11 @@
                   <a href="#Novd06conclu" id="Novd06conclu_toc">Conclusione</a>
                </li>
             </ul>
-         </li>
+         </dd>
          
          
-         <li>
-            <a href="#Dayday07" id="Dayday07_toc">Settima Giornata</a>
+         <dt onclick="showHide(this)">Settima Giornata</dt>
+            <dd style="display:none;">
             <ul>
                <li>
                   <a href="#Novd07intro" id="Novd07intro_toc">Introduzione</a>
@@ -342,11 +346,11 @@
                   <a href="#Novd07conclu" id="Novd07conclu_toc">Conclusione</a>
                </li>
             </ul>
-         </li>
+         </dd>
          
          
-         <li>
-            <a href="#Dayday08" id="Dayday08_toc">Ottava Giornata</a>
+         <dt onclick="showHide(this);">Ottava Giornata</dt>
+            <dd style="display:none;">
             <ul>
                <li>
                   <a href="#Novd08intro" id="Novd08intro_toc">Introduzione</a>
@@ -385,11 +389,11 @@
                   <a href="#Novd08conclu" id="Novd08conclu_toc">Conclusione</a>
                </li>
             </ul>
-         </li>
+         </dd>
          
          
-         <li>
-            <a href="#Dayday09" id="Dayday09_toc">Nona Giornata</a>
+         <dt onclick="showHide(this);">Nona Giornata</dt>
+            <dd style="display:none;">
             <ul>
                <li>
                   <a href="#Novd09intro" id="Novd09intro_toc">Introduzione</a>
@@ -428,11 +432,11 @@
                   <a href="#Novd09conclu" id="Novd09conclu_toc">Conclusione</a>
                </li>
             </ul>
-         </li>
+         </dd>
          
          
-         <li>
-            <a href="#Dayday10" id="Dayday10_toc">Decima Giornata</a>
+        <dt onclick="showHide(this);">Decima Giornata</dt>
+            <dd style="display:none;">
             <ul>
                <li>
                   <a href="#Novd10intro" id="Novd10intro_toc">Introduzione</a>
@@ -470,15 +474,10 @@
                <li>
                   <a href="#Novd10conclu" id="Novd10conclu_toc">Conclusione</a>
                </li>
+               <li><a href="#Dayepilogue" id="Dayepilogue_toc">Conclusione dell'autore</a></li>
             </ul>
          </li>
-         
-         
-         <li>
-            <a href="#Dayepilogue" id="Dayepilogue_toc">Conclusione dell'autore</a>
-            <ul></ul>
-         </li>
-         
+            </dd>
          
       <h4>Qui finisce la Decima e ultima giornata del
          libro chiamato Decameroncognominato Prencipe Galeotto</h4>
