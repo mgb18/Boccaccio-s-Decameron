@@ -13,6 +13,8 @@ body{
 
 }
 
+
+
 table {
     vertical-align:middle;
 
@@ -27,6 +29,7 @@ h1{
 
 h2{
     padding-top: 15px;
+    padding-bottom:20px;
     font-family:"Old English Text MT", "Monotype Corsiva", Palantino, serif;
     color:#003333;
     text-shadow:1px 1px #666666;

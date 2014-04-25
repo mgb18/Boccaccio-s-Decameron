@@ -44,6 +44,15 @@ h3{
     text-align:center;
 }
 
+a{
+    cursor: pointer;
+  }
+
+dt{
+    cursor:pointer;
+    text-align:center;
+}
+
 
 li
 {
@@ -53,9 +62,18 @@ text-align:center;
 ul
 {
 list-style-position:inside;
-list-style-type:none;
+list-style:none;
 text-align:center;
 }
+
+
+
+a:link {color:#330033;}      /* unvisited link */
+a:visited {color:#003300;}  /* visited link */
+a:hover {color:#663333;}  /* mouse over link */
+a:active {color:#330033;}  /* selected link */
+
+
 
 img{
     margin:5px;

@@ -2,10 +2,10 @@
 <html>
     <head>
         <title>The Women of Boccaccio's Decameron</title>
+        <script type="text/javascript" src="readingview2.js">/**/</script>
         <link rel="stylesheet" type="text/css" href="mainpages.css" />
     </head>
     <body>
- 
         <div><h1>Boccaccio's Decameron</h1></div>
         <div id="navbar">
             <ul>
@@ -41,6 +41,8 @@
                     <ul>
                         <li><a href="behindthescenes.html"><span>Behind the Scenes</span></a></li>
                         <li><a href="graphsandcharts.html"><span>Graphs And Charts</span></a></li>
+                        <li><a href="conclusions.html"><span>Conclusions</span></a></li>
+                        <li><a href="thanksfriends.html"><span>Special Thanks</span></a></li>
                     </ul>
                 </li>
             </ul>
@@ -49,43 +51,86 @@
         <table class="front">
             <tr class="front">
                 <td class="front"><img
-                    src="http://www.trbimg.com/img-50aef130/turbine/ct-talk-grossman-scandal-1123-.jpg-20121122/600" alt="extremely good looking text" width="200"/></td>
-                <td class="front">This page is here to give you direct links to our github, so you can take a peek at what was going on behind the scenes during the making of this project. Please refer to the charts below if you are curious as to what made this site, as well as our project, tick. </td>
-                <td class="front"><img
-                    src="http://upload.wikimedia.org/wikipedia/commons/0/04/Lisa-from-'The-Decameron'-by-Giovanni-Boccaccio-Valentine-Cameron-Prinsep.jpg" width="250"/></td>
-            </tr>
-        </table>
-        <h2><i>Table 1</i></h2>
-        <table class = "front" border="2">
-            <tr>
-                <th><b>CSS</b></th>
-                <th><b>TEI Attribute Values Guide</b></th>
-                <th><b>XSLT</b></th>
-                <th><b>HTML</b></th></tr>
-            <td><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/conclusionsdecameroncss.css">Conclusions CSS</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/bencivengadecameron.html">Homepage CSS</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/charactersdecameroncss.css">Character pages CSS</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/resourcesdecameroncss.css">Resources CSS</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/textdecameroncss.css">Text View CSS</a>
-            </td>
-        <td><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/TEI_elementPossibilities.docx">Our TEI attribute values</a></td>
-        <td><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/dioneohtml.html">Dioneo</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/elissahtml.html">Elissa</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/emiliahtml.html">Emilia</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/fiamettahtml.html">Fiametta</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/filomenahtml.html">Filomena</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/filostratohtml.html">Filostrato</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/italdecameronreadingview.html">Italian Reading View</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/laurettahtml.html">Lauretta</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/neifilehtml.html">Neifile</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/researchquestionhtml.html">Research Question</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/resourcesdecameronhtml.html">Resources</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/engdecameronreadingview%20(1).html">English Reading View</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/thetexthtml.html">The Text</a></td>
-                <td>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/italdecameronxslt.xsl">Italian Reading View</a>
-        <a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/decam.xsl">English Reading View</a>
-        </td>
+                    src="http://ebooks.adelaide.edu.au/b/boccaccio/giovanni/b664d/800px-Xaver_Winterhalter_Decameron.jpg" alt="textual texty text" width="550"/></td>
+                <td class="front">
+                
+                <h3>Wanna see what makes our website tick?</h3>
+                <dl>
+                    <dt onclick="showHide(this);">Click here to see all CSS!</dt>
+                    <dd style="display:none;">
+                    <ul>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/conclusionsdecameroncss.css">Conclusions CSS</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/bencivengadecameron.html">Homepage CSS</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/charactersdecameroncss.css">Character pages CSS</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/resourcesdecameroncss.css">Resources CSS</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/textdecameroncss.css">Text View CSS</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/graphandchartcss.css">Graphs and Charts CSS</a></li>
+                    </ul>
+                    </dd>
+                    <dt onclick="showHide(this);">Click here for our magnanimous XML!</dt>
+                    <dd style="display:none;">
+                        <ul>
+                            <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/engDecameron.xml">Decameron XML</a></li>
+                        </ul>
+                    </dd>
+                    
+                    <dt onclick="showHide(this);">Click here for our TEI Values Guide!</dt>
+                    <dd style="display:none;">
+                        <ul>
+                            <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/TEI_elementPossibilities.docx">Our TEI attribute values</a></li>
+                        </ul>
+                    </dd>
+                    
+               
+                    <dt onclick="showHide(this);">Click here to see all of our HTML!</dt>
+                        <dd style="display:none;">
+                    <ul>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/dioneohtml.html">Dioneo</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/elissahtml.html">Elissa</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/emiliahtml.html">Emilia</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/fiamettahtml.html">Fiametta</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/filomenahtml.html">Filomena</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/filostratohtml.html">Filostrato</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/italdecameronreadingview.html">Italian Reading View</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/laurettahtml.html">Lauretta</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/neifilehtml.html">Neifile</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/pampinea.html">Pampinea</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/panfilohtml.html">Panfilo</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/researchquestionhtml.html">Research Question</a></li>        
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/resourcesdecameronhtml.html">Resources</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/engdecameronreadingview%20(1).html">English Reading View</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/thetexthtml.html">The Text</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/methods.html">Methods</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/graphsandcharts.html">Graphs and Charts</a></li> 
+                        
+                    </ul>
+                        </dd>
+                    
+                  
+                       <dt onclick="showHide(this);">Click here for our trusty XSLT!</dt>
+                           <dd style="display:none;">
+                    <ul>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/italdecameronxslt.xsl">Italian Reading View</a></li>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/decam.xsl">English Reading View</a></li>
+                    </ul>
+                           </dd>
+                    <dt onclick="showHide(this);">Click here for that darn Javascript!</dt>
+                    <dd style="display:none;">
+                    <ul>
+                        <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/readingview2.js">Show Hide</a></li>
+                    </ul>
+                    </dd>
+                    
+                    <dt onclick="showHide(this);">Click here for sweet SVG!</dt>
+                    <dd style="display:none;">
+                        <ul>
+                            <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/speechsvgupdate.svg">Speech SVG</a></li>
+                            <li><a href="https://github.com/mgb18/Boccaccio-s-Decameron/blob/master/actionsvgupdate.svg">Action SVG</a></li>
+                        </ul>
+                    </dd>
+                    
+                </dl>
+             </td>
             </tr>
         </table>
         </body>
